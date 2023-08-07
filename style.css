@@ -192,9 +192,9 @@ nav .fa{
 
   
   .nav-links{
-    position: absolute;
+    position: relative;
     background: #406183;
-    height: 45vh;
+    height: 50vh;
     width: 200px;
     top: 0;
     right: -200px;
