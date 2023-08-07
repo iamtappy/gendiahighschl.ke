@@ -189,7 +189,7 @@ nav .fa{
     font-weight: 500;
   }
   .nav-links{
-    position: fixed;
+    position: absolute;
     background: #406183;
     height: 60vh;
     width: 200px;
