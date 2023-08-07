@@ -187,7 +187,10 @@ nav .fa{
   .nav-links ul li a{
     font-size: 17px;
     font-weight: 500;
+    color: wheat;
   }
+
+  
   .nav-links{
     position: absolute;
     background: #406183;
